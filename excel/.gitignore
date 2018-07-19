@@ -1,6 +1,7 @@
 build/PHPExcel.phar
 unitTests/codeCoverage
 analysis
+config.php
 
 ## IDE support
 *.buildpath
